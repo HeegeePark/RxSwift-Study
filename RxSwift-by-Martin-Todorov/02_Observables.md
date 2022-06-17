@@ -52,10 +52,6 @@ Observable은 이벤트들을 생산하고, 이 과정을 **emitting**이라고 
 
 <img src="https://assets.alexandria.raywenderlich.com/books/rxs/images/3d4b3fffebf390da9c130b6762c2936d29a811b69c8d4844acc78ad7644e1ac3/original.png" width="30%" />
 
-(뜬금없는데 이 그림 너무 귀욥다 ㅋㅋㅎ)
-
-
-
 ## 2️⃣ Lifecycle of an observable
 
 Observable이 요소를 방출하면, **Next** 이벤트라고 알려진 이벤트에서 발생한다.
